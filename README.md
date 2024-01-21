@@ -25,6 +25,8 @@ Prompt engineering was made use of to personalise the gemini LLM.
 The documentation for langchain can be found below.
 https://python.langchain.com/docs/get_started/introduction
 
+https://github.com/Dysfunctional-Human/VAB_Voice-Assissted-Chatbot-For-ISRO-bhuvan/assets/124693488/a8978b18-3e3e-4b31-ae83-fe261d903dff
+
 At last, I have also incorporated google translator to give back the answer in english since gemini LLM generates answer in the same language as the input message, but that might not always be what the user wants
 So, this makes sure that the user gets the answer in both, the language they gave the input in and also its english translation
 

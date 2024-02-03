@@ -2,7 +2,7 @@
  And so, I present to you:
 ## VAB - Voice Assissted Chatbot for ISRO Bhuvan
 
-###This project was initially made for the IISF Space Innovation Festival Hackathon 2023.
+### This project was initially made for the IISF Space Innovation Festival Hackathon 2023.
 The chatbot uses prompt engineering on Gemini LLM to give the users a seamless chatting experience for the bhuvan portal.
 This repository consists of 2 different models in the sam.ipynb notebook-
 
